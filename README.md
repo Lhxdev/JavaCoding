@@ -1,3 +1,3 @@
 # JavaCoding
 
-Calculator in Java
+Some codes in Java
